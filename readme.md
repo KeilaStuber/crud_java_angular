@@ -18,7 +18,6 @@ To install this example application, run the following commands:
 
 ```bash
 git clone https://github.com/KeilaStuber/crud_java_angular.git
-cd spring-boot-angular-example
 ```
 
 ## Backend
